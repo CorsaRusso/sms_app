@@ -14,27 +14,29 @@ Note: Users MUST be whitelisted manually before this can be used. This is a twil
 Text <b>+19793106503</b> and type a command. See list of commands below:
 
 ### Commands
-### 1. <b>GENERAL:</b>
+### 1. <b>GENERAL:</b> Formatted as `GENERAL (prompt)`. 
 
-How much caffeine was in your morning coffee?
+Example: How much caffeine was in your morning coffee?
 
 <img src="https://i.imgur.com/FTDJdxy.png">
 
-How do you reverse a linked list?
+Example: How do you reverse a linked list?
 
 <img src="https://i.imgur.com/ky3S24m.png">
 
 
 
-### 2. <b>TRANSIT:</b> 
+### 2. <b>TRANSIT:</b> Formatted as `TRANSIT (starting point) -> (destination)`.
 
-Get directions from one place to another
+Example: Get directions from one place to another
 
 <img src="https://i.imgur.com/rDYc7BG.png">
 
-### 3. <b>WEATHER:</b> 
+### 3. <b>WEATHER:</b> Formatted as `WEATHER (location) (time - optional)`.
 
-Get present or future info on the weather
+
+
+Example: Get present or future info on the weather
 
 <img src="https://i.imgur.com/LZxKPYj.png">
 
