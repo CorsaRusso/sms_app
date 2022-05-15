@@ -9,7 +9,7 @@ NAVIGATR uses machine learning and scrapes real-time data to respond to any inqu
 - Reverse a linked-list (seriously!!)
 
 ## Setup
-Note: Users MUST be whitelisted manually before this can be used. This is a twilio feature.
+Note: Users MUST be whitelisted manually before this can be used. This is a twilio feature. Enter your phone number into this [Google Form](https://forms.gle/UjQeksiNVncf623WA) to be whitelisted.
 
 Text <b>+19793106503</b> and type a command. See list of commands below:
 
